@@ -1,6 +1,8 @@
 ---
 layout: default
+email: email.html
 ---
+![SHPE UCF Logo](/assets/img/shpeucf.png)
 
 ## About
 We at the SHPE UCF Technology Committee currently develop the SHPE UCF App which serves over 300 active members.
@@ -8,7 +10,7 @@ We at the SHPE UCF Technology Committee currently develop the SHPE UCF App which
 ## Get Involved
 There are several ways to get involved right now:
 *       [SHPE UCF Main Website](https://www.shpeucf.com/)
-*       [SUTC App Tutorial](https://tech.shpeucf.com/apptutorial)
+*       [SUTC App Tutorial](/apptutorial)
 *       [Discord](https://discord.gg/p3zRu7v)
 *       [Jira](https://techshpeucf.atlassian.net)
 
@@ -16,4 +18,4 @@ There are several ways to get involved right now:
 We currently work on the SHPE UCF App. Please check out the [Github repo](https://github.com/SHPEUCF/shpeucfapp) to see what we've been up to.
 
 ## Contact Us
-Please email the tech directors, Sofia and Bryce, at tech.shpeucf (at) gmail.com
+Please email the tech directors, Sofia and Bryce, at {% include {{ page.email }} %}

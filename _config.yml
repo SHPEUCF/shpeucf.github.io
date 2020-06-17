@@ -1,3 +1,5 @@
 title: SHPE UCF Tech Committee
 description: Supporting students in a tech-driven world.
 theme: jekyll-theme-tactile
+kramdown:
+  entity_output: :as_input
