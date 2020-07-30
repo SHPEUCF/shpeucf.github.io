@@ -12,7 +12,7 @@ There are several ways to get involved right now:
 *       [SHPE UCF Main Website](https://www.shpeucf.com/)
 *       [SUTC App Tutorial](/apptutorial)
 *       [Discord](https://discord.gg/p3zRu7v)
-*       [Jira](https://techshpeucf.atlassian.net)
+*       [Jira](https://shpeucftech.atlassian.net)
 
 ## Projects
 We currently work on the SHPE UCF App. Please check out the [Github repo](https://github.com/SHPEUCF/shpeucfapp) to see what we've been up to.
