@@ -11,7 +11,7 @@ We at the SHPE UCF Technology Committee currently develop the SHPE UCF App which
 There are several ways to get involved right now:
 *       [SHPE UCF Main Website](https://www.shpeucf.com/)
 *       [SUTC App Tutorial](/apptutorial)
-*       [Discord](https://discord.gg/p3zRu7v)
+*       [Discord](https://discord.gg/GjgWFPK)
 *       [Jira](https://shpeucftech.atlassian.net)
 
 ## Projects
